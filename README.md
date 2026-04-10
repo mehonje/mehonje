@@ -1,2 +1,2 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-[<img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />](https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/godot/godot-original.svg)
+<img align="left" alt="Godot" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/godot/godot-original.svg" />
