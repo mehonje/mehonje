@@ -6,6 +6,7 @@ https://mehonje.itch.io/
 ---
 
 ## Languages
+<img align="left" alt="Odin" width="40px" style="padding-right:0px;" src="[https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/go/go-original-wordmark.svg](https://raw.githubusercontent.com/ragagno/devicon/fcc8b725925591eab53d88c39d55899cc7f4b39b/icons/odin/logo-plain.svg)" />
 <img align="left" alt="Go" width="40px" style="padding-right:0px;" src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/go/go-original-wordmark.svg" />
 <img align="left" alt="Elixir" width="40px" style="padding-right:0px;" src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/elixir/elixir-original.svg" />
 <img align="left" alt="TI-BASIC" width="30px" style="padding-right:10px;" src="https://tiny-hacker.gallerycdn.vsassets.io/extensions/tiny-hacker/ti-basic/1.0.3/1715786823011/Microsoft.VisualStudio.Services.Icons.Default" />
