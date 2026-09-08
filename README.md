@@ -1,4 +1,4 @@
-## Project
+## Projects
 https://github.com/mehonje/ti-forge \
 &emsp; TI-BASIC Development IDE \
 https://github.com/mehonje/ti-convert \
