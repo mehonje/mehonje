@@ -1,3 +1,11 @@
+## Project
+https://github.com/mehonje/ti-forge \
+&emsp; TI-BASIC Development IDE \
+https://github.com/mehonje/ti-convert \
+&emsp; 8xp-txt Conversion Tool
+
+---
+
 ## Websites
 https://github.com/mehonje \
 https://scratch.mit.edu/users/mehonje/ \
