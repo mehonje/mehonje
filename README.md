@@ -3,6 +3,8 @@ https://github.com/mehonje/ti-forge \
 &emsp; TI-BASIC Development IDE \
 https://github.com/mehonje/ti-convert \
 &emsp; 8xp-txt Conversion Tool
+https://github.com/mehonje/climp \
+&emsp; CLI Music Player
 
 ---
 
